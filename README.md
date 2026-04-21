@@ -1,12 +1,8 @@
 # sql_portfolio
-SQL practice projects and analysis
+PROJECT: E-commerce Sales Analysis
 
-PROJECT: E-commerce SQL Analysis
-What I did: 
-Imported dataset into MySQL
-Wrote querries for business insights
+The objective of this project is to analyze an e-commerce dataset using SQL to derive insights on sales performance, customer behavior, and product trends. The goal is to simulate real-world business analysis and support data-driven decision-making.
 
-Key Queries:
-Top customers
-Monthly revenue
-Product performance
+About Dataset
+Source: Kaggle E-commerce Dataset
+Format: CSV imported into MySQL
